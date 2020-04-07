@@ -61,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586268556331</updated>
-      <workItem from="1586268561704" duration="1258000" />
+      <workItem from="1586268561704" duration="1374000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交项目到github上去">
       <created>1586269773054</created>
@@ -70,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586269773054</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次提交项目到github上去">
+      <created>1586269840904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586269840904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一次提交项目到github上去">
+      <created>1586269887991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586269887991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,21 +95,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="第一次提交项目到github上去" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="79" key="#Notifications" timestamp="1586269820951">
+    <state x="361" y="79" key="#Notifications" timestamp="1586269936902">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="79" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1586269820951" />
-    <state x="385" y="17" key="CommitChangelistDialog2" timestamp="1586269840519">
+    <state x="361" y="79" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1586269936902" />
+    <state x="385" y="17" key="CommitChangelistDialog2" timestamp="1586269887579">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="385" y="17" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586269840519" />
+    <state x="385" y="17" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586269887579" />
     <state x="549" y="162" key="FileChooserDialogImpl" timestamp="1586269094955">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1586269094955" />
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1586269842699">
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1586269920931">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1586269842699" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1586269920931" />
   </component>
 </project>
