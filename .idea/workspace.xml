@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7d6bf8e4-aa88-49f8-a85e-7614acf8005f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sxd/gitdemo/GitdemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sxd/gitdemo/GitdemoApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586268556331</updated>
-      <workItem from="1586268561704" duration="2020000" />
+      <workItem from="1586268561704" duration="2359000" />
+      <workItem from="1586271091080" duration="240000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交项目到github上去">
       <created>1586269773054</created>
@@ -93,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586270003486</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第二次提交项目到github上去">
+      <created>1586270587417</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586270587417</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,17 +118,25 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="79" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1586269936902" />
-    <state x="385" y="17" key="CommitChangelistDialog2" timestamp="1586270003068">
+    <state x="385" y="17" key="CommitChangelistDialog2" timestamp="1586270587033">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="385" y="17" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586270003068" />
+    <state x="385" y="17" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586270587033" />
     <state x="549" y="162" key="FileChooserDialogImpl" timestamp="1586269094955">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1586269094955" />
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1586270020662">
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1586270657140">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1586270020662" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1586270657140" />
+    <state x="461" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1586271113914">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="461" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1586271113914" />
+    <state x="475" y="220" key="git4idea.merge.GitPullDialog" timestamp="1586271181257">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="475" y="220" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1586271181257" />
   </component>
 </project>
